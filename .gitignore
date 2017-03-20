@@ -94,3 +94,5 @@ TestPorject/Library/ProjectSettings.asset
 TestPorject/Library/ScriptAssemblies/Assembly-CSharp.dll
 TestPorject/Library/ShaderCache/0/048a1dfff14f8d40fee1b833351c884a.bin
 TestPorject/Library/ShaderCache/2/25d1dc6ea1f3e30889b9633571fdda0f.bin
+TestPorject/Temp/
+TestPorject/Library/

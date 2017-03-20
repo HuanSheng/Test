@@ -9,12 +9,11 @@ public class Object : MonoBehaviour {
 	}
 
     public GameObject Cube;
-
+    public float Speed;
 	void Update () {
 
         float xspeed = Input.GetAxis("Horizontal");
         float yspeed = Input.GetAxis("Vertical");
 
-        Cube.transform.Translate(xspeed * Time.deltaTime, yspeed * Time.deltaTime, 0);
 	}
 }
